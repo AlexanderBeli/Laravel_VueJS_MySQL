@@ -25,7 +25,7 @@ http://localhost:8080/login
 ```
 ## Tools
 
-Laravel 11
+Laravel 11, Vue
 
 ## License
 
